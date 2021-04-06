@@ -1,0 +1,31 @@
+.firstdiv {
+background-color: violet;
+border-style: solid;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+}
+.seconddiv{
+background-color: blueviolet;
+border-style: groove;
+text-align: center;
+font-style: italic;
+font-family: cursive;
+font-size: 25px;
+}
+.thirddiv {
+    background-color: coral;
+    border-style: dotted;
+    text-align: center;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.fourthdiv {
+    background-color: cornflowerblue;
+    border-style: ridge;
+    text-align: center;
+    font-style: italic;
+    font-family: fantasy;
+    font-size: 25px;
+}
